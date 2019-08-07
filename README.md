@@ -1,6 +1,7 @@
 # Insurance
 
 [写作目的](why.md)
+[名人谈保险](on-insurance.md)
 
 ## 广州职工医保
 
