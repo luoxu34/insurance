@@ -1,1 +1,12 @@
+# 阅读顺序
+
+1. [我的目的](why.md)
+2. [为什么需要商业保险](why-insurance.md)
+3. [保险需求](insurance-demand.md)
+4. [四种常见保险](insurance.md)
+5. [保险方案](insurance-plan.md)
+6. [投保注意](insure.md)
+7. [代理人和销售技巧](agent-and-sale.md)
+8. [健康小知识](health-knowledge.md)
+9. [名人谈保险](on-insurance.md)
 
