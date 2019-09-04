@@ -9,4 +9,5 @@
 7. [代理人和销售技巧](agent-and-sale.md)
 8. [健康小知识](health-knowledge.md)
 9. [名人谈保险](on-insurance.md)
+10. [其他](others.md)
 
