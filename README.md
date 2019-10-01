@@ -9,7 +9,7 @@
 7. [理赔数据](insurance-claim.md)
 8. [代理人和销售技巧](agent-and-sale.md)
 9. [健康小知识](health-knowledge.md)
-10. [看病三步走](see-the-doctor.md)
+10. [病历怎么写？](see-the-doctor.md)
 11. [名人谈保险](on-insurance.md)
 12. [周边](others.md)
 
