@@ -23,6 +23,10 @@
 
 * [银保监会](http://www.cbirc.gov.cn/cn/index.html)
 
+## 医疗数据
+
+* [广东卫健委](http://wsjkw.gd.gov.cn/zwgk_tjxx/index.html)
+
 ## 政策法规
 
 * [保险法](http://www.cbirc.gov.cn/cn/doc/9103/910303/91030301/7A1ECF7F2CA8409480517E2BE1757723.html)
