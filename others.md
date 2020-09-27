@@ -23,6 +23,8 @@
 ## 网站
 
 * [银保监会](http://www.cbirc.gov.cn/cn/index.html)
+* [中国保险行业协会](http://www.iachina.cn/)
+* [中国保险汽车安全指数](https://www.ciasi.org.cn/)
 
 ## 医疗数据
 
